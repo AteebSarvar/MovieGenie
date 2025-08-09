@@ -11,7 +11,6 @@ Built with React (frontend), Node.js (backend), and Python (recommendation engin
 
 🔗 Full-Stack Integration – Backend API connected to Python ML logic.
 
-☁ Deployed Online – Frontend hosted on GitHub Pages, backend hosted on Render.
 
 🛠 Tech Stack
 Frontend
